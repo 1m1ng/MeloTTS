@@ -1,0 +1,2 @@
+config_path: weights\threehz\config.json
+ckpt_path: weights\threehz\G_6000.pth

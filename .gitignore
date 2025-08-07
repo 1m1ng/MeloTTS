@@ -9,3 +9,7 @@ build/
 
 *.zip
 *.wav
+
+python/
+weights/
+config.yaml
