@@ -31,6 +31,12 @@ Some other features include:
 
 The Python API and model cards can be found in [this repo](https://github.com/myshell-ai/MeloTTS/blob/main/docs/install.md#python-api) or on [HuggingFace](https://huggingface.co/myshell-ai).
 
+**Contributing**
+
+If you find this work useful, please consider contributing to this repo.
+
+- Many thanks to [@fakerybakery](https://github.com/fakerybakery) for adding the Web UI and CLI part.
+
 ## Script Usage
 
 - 首次运行需要先安装环境，运行install.bat。
@@ -38,12 +44,6 @@ The Python API and model cards can be found in [this repo](https://github.com/my
 - 启动Fastapi服务器脚本start.bat。
 
 若安装环境存在问题，可直接到`Releases`下载完整包，内含完整的环境以及供测试使用的权重模型。
-
-**Contributing**
-
-If you find this work useful, please consider contributing to this repo.
-
-- Many thanks to [@fakerybakery](https://github.com/fakerybakery) for adding the Web UI and CLI part.
 
 ## Authors
 
